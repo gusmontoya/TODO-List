@@ -18,7 +18,7 @@ addToDoList.addEventListener('click', function() {
     todoList.appendChild(list);
     // this resets the input to empty after new list is added
     userInputField.value = "";
-       // this uses an event listener "click" to change the listed item 
+    // this uses an event listener "click" to change the listed item 
     // to strikethrough 
     list.addEventListener('click', function(){
         list.style.textDecoration = "line-through";
