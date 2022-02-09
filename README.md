@@ -24,4 +24,4 @@ The site is deployed on Netlify. VIEW DEMO HERE!
 </p>
 
 
-2022 © Gus Montoya
+<p align="center">2022 © Gus Montoya</p>
