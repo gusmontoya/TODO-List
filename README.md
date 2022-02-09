@@ -21,6 +21,7 @@ The site is deployed on Netlify. <a href="https://own-todo.netlify.app/" target=
   <img src="https://github.com/gusmontoya/TODO-List/blob/main/images/Profile.png" alt="TODO-profile" width="50%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <video src='your URL here' width=180/>
+  &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
 
