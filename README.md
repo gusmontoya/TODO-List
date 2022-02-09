@@ -15,7 +15,7 @@ Indicate an item is done:
 Remove an item:
 - To remove an item from the list, just double click on it. 
 
-The site is deployed on Netlify. <a href="https://own-todo.netlify.app/">VIEW DEMO HERE!</a>
+The site is deployed on Netlify. <a href="https://own-todo.netlify.app/" target="_blank" >VIEW DEMO HERE!</a>
 
 <p align="center">
   <img src="https://github.com/gusmontoya/TODO-List/blob/main/images/Profile.png" alt="TODO-profile" width="50%">
