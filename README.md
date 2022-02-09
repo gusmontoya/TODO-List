@@ -16,4 +16,6 @@ Remove an item:
 
 The site is deployed on Netlify. VIEW DEMO HERE!
 
+<img src="https://github.com/gusmontoya/TODO-List/blob/main/images/Profile.png" alt="TODO-profile">
+
 2022 © Gus Montoya
