@@ -17,7 +17,7 @@ Remove an item:
 The site is deployed on Netlify. VIEW DEMO HERE!
 
 <p align="center">
-  <img src="https://github.com/gusmontoya/TODO-List/blob/main/images/Profile.png" alt="TODO-profile" width="20%">
+  <img src="https://github.com/gusmontoya/TODO-List/blob/main/images/Profile.png" alt="TODO-profile" width="50%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <video src='your URL here' width=180/>
 </p>
