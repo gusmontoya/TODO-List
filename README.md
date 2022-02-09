@@ -1,10 +1,10 @@
-#Intro
+##Intro
 
 This repo is a simple TODO list. It is much simplified from the original (and not working) I created during a technical challenge.
 
 It uses HTML, CSS and JavaScript, and using the same layout and color scheme as the technical challenge. This application is sized for non-mobile devices.
 
-#Use
+##Use
 Add an item:
 - To add an item, type a ToDo in the input field and click on the plus sign. 
 
